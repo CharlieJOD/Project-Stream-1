@@ -1,0 +1,21 @@
+{
+  "name": "project_stream_1",
+  "description": "Code Institute Project Stream 1",
+  "main": "index.js",
+  "authors": [
+    "JohnOD"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/CharlieJOD/Project-Stream-1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular-route": "^1.6.5"
+  }
+}
