@@ -28,6 +28,18 @@
     <div ng-view>
  
     </div>
+<footer class="text-center">
+      <a class="up-arrow" href="#" data-toggle="tooltip" title="TO TOP">
+        <span class="glyphicon glyphicon-chevron-up"></span>
+      </a><br><br>
+      <p>Project by JohnOD <a href="#" title="Visit www.JohnOD Design.ie">www.JohnOD Design.ie</a> </p> 
+    </footer>
+    <script>
+        $(document).ready(function(){
+        // Initialize Tooltip
+        $('[data-toggle="tooltip"]').tooltip(); 
+        })
+    </script>
 <script src='js/app.js'></script>
 <script src='js/controller.js'></script>
 <script src='js/service.js'></script>
