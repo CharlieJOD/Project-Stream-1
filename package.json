@@ -1,0 +1,19 @@
+{
+  "name": "project_stream_1",
+  "version": "1.0.0",
+  "description": "Code Institute Project Stream 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlieJOD/Project-Stream-1.git"
+  },
+  "author": "JohnOD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlieJOD/Project-Stream-1/issues"
+  },
+  "homepage": "https://github.com/CharlieJOD/Project-Stream-1#readme"
+}
